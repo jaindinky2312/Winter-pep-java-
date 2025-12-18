@@ -1,0 +1,80 @@
+1. What are operators?
+Answer: Operators are symbols used to perform operations on variables and values, such as arithmetic, comparison, and logical operations.
+
+2. What are the types of operators?
+Answer: 1 Arithmetic
+        2 Relational
+        3 Logical
+        4 Assignment
+        5 Unary
+        6 Bitwise
+        7 Ternary
+
+3. What is the difference between = and ==?
+Answer: = assigns a value
+        == compares two values
+
+4. What is a ternary operator?
+Answer: It is a conditional operator that works as a short form of if-else.
+Syntax: condition ? value1 : value2
+
+5. What are logical operators?
+Answer: Logical operators (&&, ||, !) are used to combine or negate conditions.
+
+6. What is the increment (++) operator?
+Answer: It increases the value of a variable by 1.
+
+7. What is operator precedence?
+Answer: It determines the order in which operators are evaluated in an expression.
+
+
+
+Control Statements (8–14)
+
+8. What are control statements?
+Answer: Control statements control the flow of program execution.
+
+9. What are the types of control statements?
+Answer: Selection (if, if-else, switch)
+        Iteration (loops)
+        Jump (break, continue, return)
+
+10. What is the if statement?
+Answer: It executes a block of code only if the condition is true.
+
+11. What is the difference between if-else and switch?
+Answer: if-else checks multiple conditions
+        switch checks a single expression against multiple values
+
+12. What is a nested if statement?
+Answer: An if statement inside another if statement.
+
+13. What is the break statement?
+Answer: It terminates the loop or switch statement immediately.
+
+14. What is the continue statement?
+Answer: It skips the current iteration and moves to the next iteration.
+
+
+Looping (15–20)
+
+15. What is a loop?
+Answer: A loop repeatedly executes a block of code until a condition becomes false.
+
+16. What are the types of loops?
+Answer: for loop
+        while loop
+        do-while loop
+
+17. What is the difference between while and do-while loop?
+Answer: while checks condition first
+        do-while executes at least once before checking condition
+
+18. What is a for loop?
+Answer: A loop used when the number of iterations is known in advance.
+
+19. What is an infinite loop?
+Answer: A loop that never terminates because its condition is always true.
+
+20. When should you use break inside a loop?
+Answer: When you want to stop the loop immediately based on a condition.
